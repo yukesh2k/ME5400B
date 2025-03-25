@@ -1,0 +1,1 @@
+{"command": "Move the robotic arm 0.5 meters in front of the table with a kinematic constraint limiting the x-axis velocity to 0.3 meters per second.", "json_output": [{"action": "move", "object": "arm", "location": "TABLE_LOCATION", "offset": [0.5, 0.0, 0.0], "constraint": [{"type": "kinematic", "kinematics": ["x", 0.3]}]}]}

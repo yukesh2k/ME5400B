@@ -1,0 +1,1 @@
+{"command": "Move the cup to the table, close the gripper, and make sure the end effector doesn't move too fast along the z-axis.", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.0, 0.0, 0.0], "constraint": [{"type": "kinematic", "kinematics": ["z", 0.5]}]}, {"action": "close", "object": "gripper"}]}

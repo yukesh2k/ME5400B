@@ -1,0 +1,1 @@
+{"command": "Move the cup near the table with a small offset and ensure the end effector's orientation doesn't rotate more than 5 degrees around the x-axis.", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.1, 0.0, 0.0], "constraint": [{"type": "orientation", "orientation": ["x", 5]}]}]}

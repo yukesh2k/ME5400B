@@ -1,0 +1,1 @@
+{"command": "Move the cup near the table and make sure it's about 0.3 meters above the floor with a loose grip.", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.1, 0.0, 0.0], "constraint": [{"type": "positional", "position": ["FLOOR_LOCATION", 0.3]}, {"type": "kinematics", "axis": "z", "max_velocity": 0.5}]}]}

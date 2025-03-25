@@ -1,0 +1,1 @@
+{"command": "Move the robotic arm in front of the table while keeping its height consistent.", "json_output": [{"action": "move", "object": "arm", "location": "TABLE_LOCATION", "offset": [0.2, 0.0, 0.0], "constraint": [{"type": "positional", "position": ["FLOOR_LOCATION", 0.5]}]}]}

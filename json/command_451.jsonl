@@ -1,0 +1,1 @@
+{"command": "Move the cup near the table, but not too close, and make sure it's level.", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.0, 0.3, 0.0], "constraint": [{"type": "positional", "position": ["FLOOR_LOCATION", 0.4]}, {"type": "orientation", "orientation": ["y", 0]}]}]}

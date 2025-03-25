@@ -1,0 +1,1 @@
+{"command": "Lower the robotic arm 0.3 meters below the cup and then release it.", "json_output": [{"action": "move", "object": "arm", "location": "CUP_LOCATION", "offset": [0.0, 0.0, -0.3]}, {"action": "release", "object": "arm", "location": "CUP_LOCATION", "offset": [0.0, 0.0, -0.3]}]}

@@ -1,0 +1,2 @@
+{"command": "Move the cup to the table.", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.0, 0.0, 0.0], "constraint": []}]}
+{"command": "Move the robotic arm 0.5 meters in front of the table with a positional constraint of 0.3 meters radius and limit the y-axis rotation to 5 degrees.", "json_output": [{"action": "move", "object": "arm", "location": "TABLE_LOCATION", "offset": [0.5, 0.0, 0.0], "constraint": [{"type": "positional", "position": ["FLOOR_LOCATION", 0.3]}, {"type": "orientation", "orientation": ["y", 5]}]}]}

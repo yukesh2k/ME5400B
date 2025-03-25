@@ -1,0 +1,1 @@
+{"command": "Place the cup on the table in front of the arm", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.2, 0.0, 0.0], "constraint": []}, {"action": "release", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.2, 0.0, 0.0]}]}

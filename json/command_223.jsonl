@@ -1,0 +1,1 @@
+{"command": "Move the cup near the table and then close the gripper.", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.1, 0.0, 0.0]}, {"action": "close", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.1, 0.0, 0.0]}]}

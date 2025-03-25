@@ -1,0 +1,1 @@
+{"command": null, "json_output": [{"action": "move", "object": "cup", "location": "ARM_LOCATION", "offset": [0.0, 0.2, 0.0], "constraint": [{"type": "positional", "position": ["FLOOR_LOCATION", 0.3]}, {"type": "kinematic", "kinematics": ["y", 0.5]}]}, {"action": "close", "object": "cup", "location": "ARM_LOCATION", "offset": [0.0, 0.2, 0.0]}]}

@@ -1,0 +1,1 @@
+{"command": "Move the end effector in front of the table.", "json_output": [{"action": "move", "object": "end_effector", "location": "TABLE_LOCATION", "offset": [0.5, 0.0, 0.0]}]}

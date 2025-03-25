@@ -1,0 +1,1 @@
+{"command": "Lower the robotic arm slightly in front of the table with a small offset and apply a velocity constraint along the z-axis.", "json_output": [{"action": "move", "object": "arm", "location": "TABLE_LOCATION", "offset": [0.1, 0.0, -0.05], "constraint": [{"type": "kinematics", "axis": "z", "max_velocity": 0.5}]}]}

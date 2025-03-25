@@ -1,0 +1,1 @@
+{"command": "Move the robotic arm slightly in front of itself and then release it.", "json_output": [{"action": "move", "object": "arm", "location": "ARM_LOCATION", "offset": [0.1, 0.0, 0.0], "constraint": []}, {"action": "release", "object": "arm", "location": "ARM_LOCATION", "offset": [0.0, 0.0, 0.0], "constraint": []}]}

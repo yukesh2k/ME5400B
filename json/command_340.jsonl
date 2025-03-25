@@ -1,0 +1,1 @@
+{"command": "Move the cup near the arm with a velocity constraint of 0.2 meters per second along the x-axis.", "json_output": [{"action": "move", "object": "cup", "location": "ARM_LOCATION", "offset": [0.1, 0.0, 0.0], "constraint": [{"type": "kinematic", "kinematics": ["x", 0.2]}]}]}

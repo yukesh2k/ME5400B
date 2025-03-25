@@ -1,0 +1,1 @@
+{"command": "<command>", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.2, 0.0, 0.0], "constraint": [{"type": "positional", "position": ["FLOOR_LOCATION", 0.3]}, {"type": "orientation", "orientation": ["x", 5]}]}, {"action": "close", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.2, 0.0, 0.0]}]}

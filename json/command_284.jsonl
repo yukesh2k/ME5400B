@@ -1,0 +1,1 @@
+{"command": "Move the arm 0.3 meters forward, 0.1 meters to the right, and lower it 0.2 meters, then close the gripper.", "json_output": [{"action": "move", "object": "arm", "location": "ARM_LOCATION", "offset": [0.3, 0.1, -0.2], "constraint": []}, {"action": "close", "object": "arm", "location": "ARM_LOCATION", "offset": [0.3, 0.1, -0.2]}]}

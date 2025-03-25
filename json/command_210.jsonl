@@ -1,0 +1,1 @@
+{"command": null, "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.0, 0.0, 0.0], "constraint": []}, {"action": "move", "object": "arm", "location": "TABLE_LOCATION", "offset": [-0.2, 0.0, -0.5], "constraint": []}]}

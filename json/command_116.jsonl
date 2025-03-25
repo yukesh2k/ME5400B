@@ -1,0 +1,1 @@
+{"command": "Gently move the robotic arm 0.5 meters forward and 0.3 meters to the right, and make sure it's not moving faster than 0.2 meters per second along the x-axis.", "json_output": [{"action": "move", "object": "arm", "location": "ARM_LOCATION", "offset": [0.5, 0.3, 0.0], "constraint": [{"type": "kinematic", "kinematics": ["x", 0.2]}]}]}

@@ -1,0 +1,1 @@
+{"command": "Lower the robotic arm slightly in front of the table", "json_output": [{"action": "move", "object": "arm", "location": "TABLE_LOCATION", "offset": [0.1, 0.0, -0.1], "constraint": []}]}

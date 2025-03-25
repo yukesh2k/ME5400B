@@ -1,0 +1,1 @@
+{"command": "Move the cup to the right side of the table with a small offset and apply a velocity constraint on the y-axis.", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.0, 0.2, 0.0], "constraint": [{"type": "kinematics", "axis": "y", "max_velocity": 0.5}]}]}

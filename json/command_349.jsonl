@@ -1,0 +1,1 @@
+{"command": "Move the cup near the table and keep the arm steady.", "json_output": [{"action": "move", "object": "cup", "location": "TABLE_LOCATION", "offset": [0.1, 0.0, 0.0], "constraint": [{"type": "kinematic", "kinematics": ["x", 0.5]}]}, {"action": "release", "object": "cup"}]}
